@@ -1,9 +1,9 @@
 {
-  "name": "@monorepo-template/scripts",
+  "name": "@Demo-OnePeak/scripts",
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
-    "@monorepo-template/core": "*",
+    "@Demo-OnePeak/core": "*",
     "sst": "*"
   },
   "scripts": {
